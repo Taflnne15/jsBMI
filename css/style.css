@@ -1,0 +1,40 @@
+.btn{
+justify-content: space-between;
+ margin-top: 30px;
+}
+
+input{
+
+ border-radius: 4px solid black;   
+
+    
+}
+body{
+background-color:  pink;
+}
+h3{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.main-container{
+padding: 10px;
+background-color: rgb(165, 192, 216);
+border-radius: 2px solid black;
+
+
+
+
+
+}
+.container-fluid1 .row .output{
+    padding: 30px;
+    margin-top: 5px;
+    border: 2px solid white;
+    height: 200vh;
+    
+}
+h1{
+    text-align: center;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
